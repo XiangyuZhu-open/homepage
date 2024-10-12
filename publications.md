@@ -7,6 +7,25 @@ author_profile: true
 
 2024
 =====
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-eccv-ma.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation,</strong><br/>
+      Zhiyuan Ma, Yuxiang Wei, Yabin Zhang, <strong>Xiangyu Zhu</strong>, Zhen Lei, Lei Zhang<br/>
+      In European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2407.02040">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
 ___
 
 <div class="row">

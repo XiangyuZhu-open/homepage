@@ -7,6 +7,23 @@ author_profile: true
 
 2024
 =====
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-mm-wang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch,</strong><br/>
+      Zidu Wang, <strong>Xiangyu Zhu</strong>, Jiang Yu, Tianshuo Zhang, and Zhen Lei<br/>
+      ACM Multimedia (<strong>ACM MM</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/abs/2408.01218">PDF</a>]
+    </p>
+  </div>
+</div>
+
 
 ___
 

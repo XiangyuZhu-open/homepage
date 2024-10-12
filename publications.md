@@ -55,7 +55,7 @@ ___
     <p>
       <strong>Spatiotemporal Fine-grained Video Description for Short Videos,</strong><br/>
       Te Yang, Jian Jia, Bo Wang, Yanhua cheng, Yan Li, Dongze Hao, Xipeng Cao, Quan Chen, Han Li, Peng Jiang, <strong>Xiangyu Zhu(corresponding author)</strong>, Zhen Lei<br/>
-      ACM Multimedia (<strong>ACM MM</strong>), <strong>Oral</strong><br/>, 2024. 
+      ACM Multimedia (<strong>ACM MM</strong>), <strong>Oral</strong>, 2024. 
       [<a href="https://openreview.net/forum?id=SWFpL4G2pf&referrer=%5Bthe%20profile%20of%20Xiangyu%20Zhu%5D(%2Fprofile%3Fid%3D~Xiangyu_Zhu3)">PDF</a>]
     </p>
   </div>

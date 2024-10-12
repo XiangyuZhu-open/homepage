@@ -29,6 +29,25 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-mm-yang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Spatiotemporal Fine-grained Video Description for Short Videos,</strong><br/>
+      Te Yang, Jian Jia, Bo Wang, Yanhua cheng, Yan Li, Dongze Hao, Xipeng Cao, Quan Chen, Han Li, Peng Jiang, <strong>Xiangyu Zhu(corresponding author)</strong>, Zhen Lei
+      ACM Multimedia (<strong>ACM MM</strong>), 2024. <strong>Oral</strong><br/> 
+      [<a href="https://openreview.net/forum?id=SWFpL4G2pf&referrer=%5Bthe%20profile%20of%20Xiangyu%20Zhu%5D(%2Fprofile%3Fid%3D~Xiangyu_Zhu3)">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2024-cvpr-wang.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>

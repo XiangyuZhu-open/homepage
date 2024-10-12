@@ -14,12 +14,14 @@ I am now an Associate Professor at Institute of Automation Chinese Academic of S
 
 
 
-中国科学院自动化研究所副研究员，从事生物特征识别和可解释AI相关基础理论研究与应用。国际模式识别协会（IAPR）生物特征青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名），中国图象图形学学会青托俱乐部副主席。共发表论文80余篇，其中作为第一作者发表T-PAMI论文 3篇，IJCV论文1篇，两次获得CVPR口头报告，发表文章的Google Scholar总引用次数为9200余次。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利10项。入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人），受到腾讯犀牛鸟基金支持。获2021中国电子学会科技进步二等奖、中国图象图形学学会优秀博士论文提名奖，任CCF:A类期刊T-IFS AE。提出的人脸三维建模方法在被PyTorch官方Twitter报道，单篇论文（一作）引用次数1300余次，开源代码在Github上收获6000余星。
+中国科学院自动化研究所副研究员，从事生物特征识别和可解释AI相关基础理论研究与应用。国际模式识别协会（IAPR）生物特征青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名），中国图象图形学学会青托俱乐部副主席。共发表论文80余篇，其中作为第一作者发表T-PAMI论文 3篇，IJCV论文1篇，两次获得CVPR口头报告，发表文章的Google Scholar总引用次数为9500余次。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利10项。入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人），受到腾讯犀牛鸟基金支持。获2021中国电子学会科技进步二等奖、中国图象图形学学会优秀博士论文提名奖，任CCF:A类期刊T-IFS Associate Editor。提出的人脸三维建模方法在被PyTorch官方Twitter报道，单篇论文（一作）引用次数1300余次，开源代码在Github上收获6000余星。
 
 <br>
 
 News!
 ======
+* Jul. 2024: One paper is accepted by ECCV
+* Jul. 2024: Two papers are accepted by ACM-Multimedia (ACM-MM)
 * Apr. 2024: One paper on 6DoF Face Pose Estimation is accepted by IEEE Transactions on Multimedia (TMM). 
 * Mar. 2024: Our 3DDFAv3 Paper “3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation” is accepted by CVPR 2024 (Highlight). 
 * Mar. 2024: We won the WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn). Congrats to all collaborators!

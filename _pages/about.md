@@ -10,16 +10,17 @@ redirect_from:
 
 Short Bio
 ======
-I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Face AIGC**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 80 papers with total citation in Google Scholar being 9500. I am an IEEE senior member and serve as the Associate Editor of T-IFS and area chair for IJCB and ACM MM. 
+I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Face AIGC**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 90 papers with total citation in Google Scholar being 9600. I am an IEEE senior member and serve as the Associate Editor of T-IFS and area chair for IJCB and ACM MM. 
 
 
 
-中国科学院自动化研究所副研究员，从事生物特征识别、数字人、世界模型相关基础理论研究与应用。国际模式识别协会（IAPR）生物特征青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名），中国图象图形学学会青托俱乐部副主席。共发表论文80余篇，其中作为第一作者发表T-PAMI论文 3篇，IJCV论文1篇，两次获得CVPR口头报告，发表文章的Google Scholar总引用次数为9500余次。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利10项。入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人），受到腾讯犀牛鸟基金支持。获2021中国电子学会科技进步二等奖、中国图象图形学学会优秀博士论文提名奖，任CCF:A类期刊T-IFS Associate Editor。提出的人脸三维建模方法在被PyTorch官方Twitter报道，单篇论文（一作）引用次数1300余次，开源代码在Github上收获6000余星。
+中国科学院自动化研究所副研究员，从事生物特征识别、数字人、世界模型相关基础理论研究与应用。国际模式识别协会（IAPR）生物特征青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名），中国图象图形学学会青托俱乐部副主席。共发表论文90余篇，其中作为第一作者发表T-PAMI论文 3篇，IJCV论文1篇，两次获得CVPR口头报告，发表文章的Google Scholar总引用次数为9600余次。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利10项。入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人），受到腾讯犀牛鸟基金支持。获2024中国图象图形学学会自然科学一等奖（第一完成人），2021中国电子学会科技进步二等奖、中国图象图形学学会优秀博士论文提名奖，任生物特征识别顶级期刊T-IFS (CCF:A类) Associate Editor。提出的人脸三维建模方法在被PyTorch官方Twitter报道，单篇论文（一作）引用次数1300余次，开源代码在Github上收获6000余星。
 
 <br>
 
 News!
 ======
+* Nov. 2024: I am awarded the Natural Science Award, Chinese Society of Image and Graphics (CSIG) （中国图象图形学学会自然科学二等奖，排序1/4）
 * Jul. 2024: One paper is accepted by ECCV
 * Jul. 2024: Two papers are accepted by ACM-Multimedia (ACM-MM)
 * Apr. 2024: One paper on 6DoF Face Pose Estimation is accepted by IEEE Transactions on Multimedia (TMM). 
@@ -315,6 +316,7 @@ Area Chair, The IEEE International Joint Conference on Biometrics (IJCB) 2023
 Honors & Awards
 ======
 * IAPR Young Biometrics Investigator Award 2023 (**YBIA**) (Honors a scholar under the age of 40 who has made substantial contributions to the IAPR Biometrics community and whose research has had a major impact in biometrics.) [<a href="https://iapr-tc4.org/awards/">Link</a>]
+* 2024 Second Class Prize of the Natural Science Award, Chinese Society of Image and Graphics (CSIG). （中国图象图形学学会自然科学二等奖，排序1/4）
 * IEEE Senior Member
 * CSIG Senior Member
 * 2023 CCBR Best Paper 1st Runner Up.

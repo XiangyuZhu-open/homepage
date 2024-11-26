@@ -334,7 +334,7 @@ Honors & Awards
 * 2017 CCBR Best Student Paper Award.
 
 
-Competitions
+Competitions Winner
 ======
 * 2024 <a href="https://frcsyn.github.io/">Face Recognition Challenge in the Era of Synthetic Data</a> (FRCSyn) at WACV 2024, Rank 1st on two sub-tasks.
 * 2019 The Champion of <a href="https://ibug.doc.ic.ac.uk/resources/lightweight-face-recognition-challenge-workshop/">DeepGlint-Large Track in Light Weight Face Recognition Challenge</a> at ICCV 2019.

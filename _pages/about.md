@@ -309,10 +309,12 @@ ___
 
 Services
 ======
-Associate Editor, IEEE Transactions on Information Forensics and Security (TIFS)
-Program Chair,  The IEEE International Joint Conference on Biometrics (IJCB) 2025
-Area Chair, The Association for the Advancement of Artificial Intelligence (AAAI) 2020,2021,2022
-Area Chair, The IEEE International Joint Conference on Biometrics (IJCB) 2023
+*Associate Editor, IEEE Transactions on Information Forensics and Security (TIFS)
+*Program Chair,  The IEEE International Joint Conference on Biometrics (IJCB) 2025
+*Area Chair, The Association for the Advancement of Artificial Intelligence (AAAI) 2020,2021,2022
+*Area Chair, The IEEE International Joint Conference on Biometrics (IJCB) 2023
+
+
 
 Honors & Awards
 ======
@@ -337,3 +339,13 @@ Competitions
 * 2024 <a href="https://frcsyn.github.io/">Face Recognition Challenge in the Era of Synthetic Data</a> (FRCSyn) at WACV 2024, Rank 1st on two sub-tasks.
 * 2019 The Champion of <a href="https://ibug.doc.ic.ac.uk/resources/lightweight-face-recognition-challenge-workshop/">DeepGlint-Large Track in Light Weight Face Recognition Challenge</a> at ICCV 2019.
 * 2017 The Winner of FG2017 facial micro-expression recognition competition.
+
+Activities
+======
+* 2024 Workshop Organization: "Face Biometrics" in CCBR 2024 (面部生物特征识别论坛) [<a href="https://ccbr99.cn/forums.html?c=c7">Link</a>]
+* 2023 Workshop Organization: "1st International Workshop and Challenge on People Analysis: From Face, Body and Fashion to 3D Virtual Avatars" in ECCV 2022 [<a href="https://sites.google.com/view/wcpa2022/">Link</a>]
+* 2022 Workshop Organization: "1st International Workshop and Challenge on People Analysis: From Face, Body and Fashion to 3D Virtual Avatars" in ECCV 2022 [<a href="https://sites.google.com/view/wcpa2022/">Link</a>]
+* 2021 Competition Organization: "3D face reconstruction from multiple 2D images" in CVPR 2021 [<a href="http://www.picdataset.com/challenge/task/3dface/">Link</a>]
+* 2021 Competition Organization: "The 3rd Grand Challenge of 106-Point Facial Landmark Localization" in ICME 2021 [<a href="https://fllc3-icme2021.github.io/index.html">Link</a>]
+* 2020 Competition Organization:"The 2nd Grand Challenge of 106-Point Facial Landmark Localization" in ICME 2020 [<a href="https://fllc-icpr2020.github.io/home/">Link</a>]
+* 2019 Competition Organization:"Grand Challenge of 106-p Facial Landmark Localization" in ICME 2019[<a href="https://facial-landmarks-localization-challenge.github.io">Link</a>]

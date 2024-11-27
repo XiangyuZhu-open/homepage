@@ -311,7 +311,7 @@ Services
 ======
 * Associate Editor, IEEE Transactions on Information Forensics and Security (TIFS)
 * Program Chair,  The IEEE International Joint Conference on Biometrics (IJCB) 2025
-* Area Chair, The Association for the Advancement of Artificial Intelligence (AAAI) 2020,2021,2022
+* Area Chair, The ACM Multimedia (ACM MM) 2020,2021,2022
 * Area Chair, The IEEE International Joint Conference on Biometrics (IJCB) 2023
 
 

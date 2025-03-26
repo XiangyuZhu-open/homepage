@@ -4,6 +4,62 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+2025
+=====
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-tip-zhao.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Global Cross-Entropy Loss for Deep Face Recognition,</strong><br/>
+      Weisong Zhao, <strong>Xiangyu Zhu</strong>,  Haichao Shi, Xiao-Yu Zhang,  Guoying Zhao,  Zhen Lei<br/>
+      IEEE Transactions on Image Processing (<strong>TIP</strong>), 2025.<br/>
+      [<a href="https://ieeexplore.ieee.org/document/10914510">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-cvpr-liu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>MVBoost: Boost 3D Reconstruction with Multi-View Refinement,</strong><br/>
+      Xiangyu Liu, Xiaomei Zhang, Zhiyuan Ma, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Zhen Lei<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2025.<br/>
+      [<a href="https://arxiv.org/abs/2411.17772">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-cvpr-ma.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data,</strong><br/>
+      Zhiyuan Ma, Xinyue Liang, Rongyuan Wu, <strong>Xiangyu Zhu</strong>, Zhen Lei, Lei Zhang<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2025.<br/>
+      [<a href="">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
 
 2024
 =====

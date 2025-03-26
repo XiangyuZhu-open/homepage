@@ -14,7 +14,7 @@ I am now an Associate Professor at Institute of Automation Chinese Academic of S
 
 
 
-中国科学院自动化研究所副研究员，从事生物特征识别、数字人、人工智能基础理论的研究与应用。国际模式识别协会（IAPR）生物特征青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名），获2024中国图象图形学学会自然科学二等奖（第一完成人）。共发表论文90余篇，其中作为第一作者发表T-PAMI论文 3篇，IJCV论文1篇，两次获得CVPR口头报告，发表文章的Google Scholar总引用次数为9600余次。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利12项。入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人），受到腾讯犀牛鸟基金支持。任生物特征识别国际期刊IEEE Transactions on Information Forensics & Security (T-IFS, CCF:A类) 、模式识别国际知名期刊Pattern Recognition (PR, CCF:B) Associate Editor， 国际生物特征识别大会 IJCB 2025 Program Chair, 中国图象图形学学会青托俱乐部副主席。其他奖项包括2021中国电子学会科技进步二等奖、中国图象图形学学会优秀博士论文提名奖。提出的人脸三维建模方法在国际上产生了较广泛的影响力，相关成果被PyTorch官方Twitter报道，开源代码在Github上收获6000余星。
+中国科学院自动化研究所副研究员，从事生物特征识别、数字人、人工智能基础理论的研究与应用。国际模式识别协会（IAPR）生物特征青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名），获2024中国图象图形学学会自然科学二等奖（第一完成人）。共发表论文100余篇，其中作为第一作者发表T-PAMI论文 3篇，IJCV论文1篇，两次获得CVPR口头报告，发表文章的Google Scholar总引用次数为10000余次。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利12项。入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人），受到腾讯犀牛鸟基金支持。任生物特征识别国际期刊IEEE Transactions on Information Forensics & Security (T-IFS, CCF:A类) 、模式识别国际知名期刊Pattern Recognition (PR, CCF:B) Associate Editor， 国际生物特征识别大会 IJCB 2025 Program Chair, 中国人工智能学会模式识别专委会副秘书长，中国图象图形学学会青托俱乐部副主席。其他奖项包括2021中国电子学会科技进步二等奖、中国图象图形学学会优秀博士论文提名奖。提出的人脸三维建模方法在国际上产生了较广泛的影响力，相关成果被PyTorch官方Twitter报道，开源代码在Github上收获8000余星。
 
 <br>
 

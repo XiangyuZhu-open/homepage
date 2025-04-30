@@ -24,6 +24,7 @@ Chinese Bio
 News!
 ======
 * Apr. 2025: One paper about interpretable AI is accepted by IJCAI
+* Mar. 2025: One paper is accepted by ICME
 * Mar. 2025: Two papers are accepted by CVPR
 * Feb. 2025: One paper is accepted by TIP
 * Nov. 2024: I am awarded the Natural Science Award, Chinese Society of Image and Graphics (CSIG) （中国图象图形学学会自然科学二等奖，排序1/4）

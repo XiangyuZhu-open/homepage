@@ -78,6 +78,22 @@ ___
   </div>
 </div>
 
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-icme-wang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>ET-Talk: Effective Training Strategy to Enhance Synchrony and Fidelity for Talking Face Generation,</strong><br/>
+      Baiqin Wang, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Fan Shen, Hao Xu, Shukai Chen, Zhen Lei<br/>
+      International Conference on Multimedia and Expo (<strong>ICME</strong>) 2025.<br/>
+      [<a href="">PDF</a>]
+    </p>
+  </div>
+</div>
 
 
 2024

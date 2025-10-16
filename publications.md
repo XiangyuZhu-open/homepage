@@ -11,15 +11,15 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-ijcai-zou.png?raw=true">  
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-miccai-xu.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Top-Down Guidance for Learning Object-Centric Representations,</strong><br/>
-      Junhong Zou, Xiangyu Zhu, Zhaoxiang Zhang and Zhen Lei<br/>
-      International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/abs/2405.10598">PDF</a>]
+      <strong>Reconstructing 3D Hand-Instrument Interaction from a Single 2D Image in Medical Scenes,</strong><br/>
+      Miao Xu, <strong>Xiangyu Zhu</strong>, Jinlin Wu, Ming Feng, Zelin Zang, Hongbin Liu, and Zhen Lei<br/>
+     International Conference on Medical Image Computing and Computer-Assisted Intervention (<strong>MICCAI</strong>), 2025.<br/>
+      [<a href="https://papers.miccai.org/miccai-2025/paper/2293_paper.pdf">PDF</a>]
     </p>
   </div>
 </div>

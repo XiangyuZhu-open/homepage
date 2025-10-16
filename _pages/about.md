@@ -23,8 +23,8 @@ Chinese Bio
 
 News!
 ======
-* Sep. 2025: One paper is accepted by NeuIPS
-* Apr. 2025: One paper is accpeted by MM
+* Sep. 2025: One paper is accepted by NeurIPS
+* Apr. 2025: One paper is accpeted by MM (Oral)
 * Jul. 2025: Six papers are accepted by IJCB (3 Oral)
 * Jul. 2025: One paper about AI4Sicence (AI for Computational Fluid Dynamics) is accepted by Phyiscs of Fluid (PoF)
 * Jun. 2025: One paper is accpeted by MICCAI

@@ -7,6 +7,22 @@ author_profile: true
 2025
 =====
 
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-nips-zhang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>DevFD: Developmental Face Forgery Detection by Learning Shared and Orthogonal LoRA Subspaces,</strong><br/>
+      Tianshuo Zhang, Li Gao, Siran Peng, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Zhen Lei<br/>
+      Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025. <br/>
+      [<a href="https://arxiv.org/pdf/2509.19230">PDF</a>][<a href="https://mp.weixin.qq.com/s/Afw1W7AE4BVpFaoZh-kFHg">Weixin</a>]
+    </p>
+  </div>
+</div>
 
 
 ___
@@ -25,6 +41,7 @@ ___
     </p>
   </div>
 </div>
+
 ___
 
 

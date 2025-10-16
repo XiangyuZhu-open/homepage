@@ -11,6 +11,42 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-ijcb-haoyuan.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Spoof Trace Discovery for Deep Learning Based Explainable Face Anti-Spoofing,</strong><br/>
+      Haoyuan Zhang, Xiangyu Zhu, Li Gao, Jiawei Pan, Kai Pang, Guoying Zhao, Zhen Lei<br/>
+      IEEE International Joint Conference on Biometrics(<strong>IJCB</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/abs/2412.17541">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-ijcb-tianshuo.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Exploiting Facial Discomfort Clues with Vision-Language Model for Generalizable Face Forgery Detection,</strong><br/>
+      Tianshuo Zhang, Xiangyu Zhu, Li Gao, Kai Pang, Shukai Chen, Zhen Lei<br/>
+      IEEE International Joint Conference on Biometrics(<strong>IJCB</strong>), 2025.<br/>
+      [<a href="">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-pof-zou.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>

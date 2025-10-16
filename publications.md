@@ -7,7 +7,26 @@ author_profile: true
 2025
 =====
 
+
+
 ___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-ijcb-xu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Wmamba: Wavelet-based mamba for face forgery detection,</strong><br/>
+      Siran Peng, Tianshuo Zhang, Li Gao, Xiangyu Zhu, Haoyuan Zhang, Kai Pang, Zhen Lei<br/>
+      IEEE International Joint Conference on Biometrics(<strong>IJCB</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2501.09617?">PDF</a>]
+    </p>
+  </div>
+</div>
+___
+
 
 <div class="row">
   <div class="column left">
@@ -42,8 +61,25 @@ ___
   </div>
 </div>
 
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-ijcb-xu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>StreamWMR: A Streaming Framework for Real-time 3D Whole-body Mesh Recovery,</strong><br/>
+      Miao Xu, Xiangyu Zhu, Jinlin Wu, Zidu Wang, Xiaomei Zhang, Li Gao, Shukai Chen, Dong Yi, Zhen Lei<br/>
+      IEEE International Joint Conference on Biometrics(<strong>IJCB</strong>), 2025.<br/>
+      [<a href="">PDF</a>]
+    </p>
+  </div>
+</div>
 
 ___
+
 
 <div class="row">
   <div class="column left">

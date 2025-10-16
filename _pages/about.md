@@ -27,7 +27,7 @@ News!
 * Apr. 2025: One paper is accpeted by MM
 * Jul. 2025: Six papers are accepted by IJCB (3 Oral)
 * Jul. 2025: One paper about AI4Sicence (AI for Computational Fluid Dynamics) is accepted by Phyiscs of Fluid (PoF)
-* Jun. 2025: One paper is accpeted by MICCAI, congrats to Miao Xu!
+* Jun. 2025: One paper is accpeted by MICCAI
 * Apr. 2025: One paper about interpretable AI is accepted by IJCAI
 * Mar. 2025: One paper is accepted by ICME
 * Mar. 2025: Two papers are accepted by CVPR

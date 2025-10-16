@@ -20,7 +20,7 @@ ___
     <p>
       <strong>Wmamba: Wavelet-based mamba for face forgery detection,</strong><br/>
       Siran Peng, Tianshuo Zhang, Li Gao, Xiangyu Zhu, Haoyuan Zhang, Kai Pang, Zhen Lei<br/>
-      IEEE International Joint Conference on Biometrics(<strong>IJCB</strong>), 2025.<br/>
+      ACM Multimedia (<strong>ACM MM</strong>), <strong>Oral</strong>, 2025. <br/>
       [<a href="https://arxiv.org/pdf/2501.09617?">PDF</a>]
     </p>
   </div>

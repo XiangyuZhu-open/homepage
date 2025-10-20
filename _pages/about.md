@@ -10,14 +10,14 @@ redirect_from:
 
 Short Bio
 ======
-I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Face AIGC**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 100 papers with total citation in Google Scholar being over 10000. I am an IEEE senior member and serve as the Associate Editor of IEEE Transactions on Information Forensics & Security (T-IFS) and Pattern Recognition (PR), Program Chair of IJCB 2025, and Area Chair for IJCB and ACM MM. My github projects on face analysis and 3D reconstruction have gained over 8000 stars.
+I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Face AIGC**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 100 papers with total citation in Google Scholar being over 11000. I am an IEEE senior member and serve as the Associate Editor of IEEE Transactions on Information Forensics & Security (T-IFS) and Pattern Recognition (PR), Program Chair of IJCB 2025, and Area Chair for IJCB and ACM MM. My github projects on face analysis and 3D reconstruction have gained over 8000 stars.
 
 <br>
 
 
 Chinese Bio
 ======
-中国科学院自动化研究所副研究员，从事生物特征识别、数字人、人工智能基础理论的研究与应用。国际模式识别协会（IAPR）生物特征青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名），获2024中国图象图形学学会自然科学二等奖（第一完成人）。共发表论文100余篇，发表文章的Google Scholar总引用次数为11000余次, 2021-2024连续四年入选斯坦福排行榜 “全球前2%顶尖科学家”。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利16项。入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人），任生物特征识别国际期刊IEEE Transactions on Information Forensics & Security (T-IFS, CCF:A类) 、模式识别国际知名期刊Pattern Recognition (PR, CCF:B) Associate Editor， 国际生物特征识别大会 IJCB 2025 Program Chair, 中国人工智能学会模式识别专委会副秘书长，中国图象图形学学会青托俱乐部副主席。其他奖项包括2021中国电子学会科技进步二等奖、中国图象图形学学会优秀博士论文提名奖。提出的人脸三维建模方法在国际上产生了较广泛的影响力，相关成果被PyTorch官方Twitter报道，开源代码在Github上收获8000余星。
+中国科学院自动化研究所副研究员，从事生物特征识别、数字人、AI4Science（空气动力学）研究与应用。国际模式识别协会（IAPR）生物特征识别青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名）。共发表论文100余篇，发表文章的Google Scholar总引用次数为11000余次，入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人）。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利16项。任生物特征识别国际期刊IEEE Transactions on Information Forensics & Security (T-IFS, CCF:A) 、模式识别国际知名期刊Pattern Recognition (PR, CCF:B) Associate Editor， 国际生物特征识别大会 IJCB 2025 Program Chair, 中国人工智能学会模式识别专委会副秘书长，中国图象图形学学会青托俱乐部副主席。获中国图象图形学学会自然科学二等奖（第一完成人），中国电子学会科技进步二等奖。提出的人脸三维建模方法在国际上产生了较广泛的影响力，相关成果被PyTorch官方Twitter报道，开源代码在Github上收获8000余星。主持中科院先导A专项课题，国自然重大培育、面上项目，华为、腾讯、阿里、商汤等企业委托项目。
 
 <br>
 
@@ -341,6 +341,7 @@ Services
 ======
 * Associate Editor, IEEE Transactions on Information Forensics and Security (TIFS)
 * Associate Editor, Pattern Recognition (PR)
+* Associate Editor, IEEE Transactions on Biometrics, Behavior, and Identity (TBIOM)
 * Program Chair,  The IEEE International Joint Conference on Biometrics (IJCB) 2025
 * Area Chair, The ACM Multimedia (ACM MM) 2020,2021,2022
 * Area Chair, The IEEE International Joint Conference on Biometrics (IJCB) 2023
@@ -376,6 +377,7 @@ Competitions Winner
 
 Activities Organization
 ======
+* 2025 Workshop: "When Face Biometrics meets AI4Science" in Valse 2025 [<a href="https://www.bilibili.com/video/BV1gXn9zuEvZ/?spm_id_from=333.337.search-card.all.click">Link</a>]
 * 2024 Workshop: "Face Biometrics" in CCBR 2024 [<a href="https://ccbr99.cn/forums.html?c=c7">Link</a>]
 * 2024 Valse Webinar: "Digital Face Generation, 2D and 3D Methods" [<a href="https://ccbr99.cn/forums.html?c=c7">Link</a>]
 * 2022 Workshop: "1st International Workshop and Challenge on People Analysis: From Face, Body and Fashion to 3D Virtual Avatars" in ECCV 2022 [<a href="https://sites.google.com/view/wcpa2022/">Link</a>]

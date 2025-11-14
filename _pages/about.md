@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Face AIGC**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 100 papers with total citation in Google Scholar being over 11000. I am an IEEE senior member and serve as the Associate Editor of IEEE Transactions on Information Forensics & Security (T-IFS) and Pattern Recognition (PR), Program Chair of IJCB 2025, and Area Chair for IJCB and ACM MM. My github projects on face analysis and 3D reconstruction have gained over 8000 stars.
+I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Digital Human**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 100 papers with total citation in Google Scholar being over 11000. I am an IEEE senior member and serve as the Associate Editor of IEEE Transactions on Information Forensics & Security (T-IFS) and Pattern Recognition (PR), Program Chair of IJCB 2025, and Area Chair for IJCB and ACM MM. My github projects on face analysis and 3D reconstruction have gained over 8000 stars.
 
 <br>
 
@@ -23,6 +23,7 @@ Chinese Bio
 
 News!
 ======
+* Nov. 2025: Two paper is accepted by AAAI
 * Sep. 2025: One paper is accepted by NeurIPS
 * Apr. 2025: One paper is accpeted by MM (Oral)
 * Jul. 2025: Six papers are accepted by IJCB (3 Oral)

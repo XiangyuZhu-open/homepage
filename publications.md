@@ -19,7 +19,7 @@ ___
     <p>
       <strong>AdaField: Generalizable Surface Pressure Modeling with Physics-Informed Pre-training and Flow-Conditioned Adaptation,</strong><br/>
       Junhong Zou, Wei Qiu, Zhenxu Sun, Xiaomei Zhang, Zhaoxiang Zhang, <strong>Xiangyu Zhu (Corresponding Author)</strong><br/>
-       The 40th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026. <br/>
+      The 40th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026. <br/>
       [<a href="">PDF</a>]
     </p>
   </div>
@@ -37,7 +37,7 @@ ___
     <p>
       <strong>Unifying Locality of KANs and Feature Drift Compensation Projection for Data-free Replay based Continual Face Forgery Detection,</strong><br/>
       Tianshuo Zhang, Siran Peng, Li Gao, Haoyuan Zhang, Xiangyu Zhu, Zhen Lei<br/>
-      Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025. <br/>
+      The 40th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026. <br/>
       [<a href="https://arxiv.org/pdf/2509.19230">PDF</a>][<a href="https://mp.weixin.qq.com/s/Afw1W7AE4BVpFaoZh-kFHg">Weixin</a>]
     </p>
   </div>

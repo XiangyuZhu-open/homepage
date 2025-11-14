@@ -38,7 +38,7 @@ ___
       <strong>Unifying Locality of KANs and Feature Drift Compensation Projection for Data-free Replay based Continual Face Forgery Detection,</strong><br/>
       Tianshuo Zhang, Siran Peng, Li Gao, Haoyuan Zhang, Xiangyu Zhu, Zhen Lei<br/>
       The 40th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026. <br/>
-      [<a href="https://arxiv.org/pdf/2509.19230">PDF</a>][<a href="https://mp.weixin.qq.com/s/Afw1W7AE4BVpFaoZh-kFHg">Weixin</a>]
+      [<a href="https://www.arxiv.org/abs/2508.03189">PDF</a>]
     </p>
   </div>
 </div>

@@ -113,6 +113,23 @@ ___
   </div>
 </div>
 
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-ijcai-zou.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Top-Down Guidance for Learning Object-Centric Representations,</strong><br/>
+      Junhong Zou, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Zhaoxiang Zhang and Zhen Lei<br/>
+      International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/abs/2405.10598">PDF</a>]
+    </p>
+  </div>
+</div>
+
 
 ___
 

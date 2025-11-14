@@ -23,7 +23,7 @@ Chinese Bio
 
 News!
 ======
-* Nov. 2025: Two paper is accepted by AAAI
+* Nov. 2025: Two papers are accepted by AAAI
 * Sep. 2025: One paper is accepted by NeurIPS
 * Apr. 2025: One paper is accpeted by MM (Oral)
 * Jul. 2025: Six papers are accepted by IJCB (3 Oral)

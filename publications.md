@@ -7,6 +7,25 @@ author_profile: true
 
 2026
 =====
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-cvpr-baiqin.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation,</strong><br/>
+      Baiqin Wang, <strong>Xiangyu Zhu (Corresponding Author)</strong><br/>, Fan Shen, Hao Xu, Zhen Lei
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2026. <br/>
+      [<a href="https://arxiv.org/abs/2503.14295">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+
 
 ___
 

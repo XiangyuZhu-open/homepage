@@ -105,7 +105,7 @@ ___
     <p>
       <strong>Enhancing the Instruction-Following Ability of Vision-Language Models via Image Redundancy Reduction,</strong><br/>
       Te Yang, Jian Jia, <strong>Xiangyu Zhu</strong>, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, Quan Chen and Zhen Lei<br/>
-      Machine Intelligence Research (<strong>MIR</strong>) 2026. <br/>
+      Machine Intelligence Research (<strong>MIR</strong>), 2026. <br/>
       [<a href="">PDF</a>]
     </p>
   </div>
@@ -122,7 +122,7 @@ ___
     <p>
       <strong>Improving Large Vision-Language Models' Understanding for Field Data,</strong><br/>
       Xiaomei Zhang, Hanyu Zheng, <strong>Xiangyu Zhu</strong>, Jinghuan Wei, Junhong Zou, Zhen Lei, Zhaoxiang Zhang<br/>
-      Machine Intelligence Research (<strong>MIR</strong>) 2026. <br/>
+      Machine Intelligence Research (<strong>MIR</strong>), 2026. <br/>
       [<a href="https://arxiv.org/abs/2507.18311">PDF</a>]
     </p>
   </div>

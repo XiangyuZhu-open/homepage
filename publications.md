@@ -121,7 +121,7 @@ ___
   <div class="column right">
     <p>
       <strong>Improving Large Vision-Language Models' Understanding for Field Data,</strong><br/>
-      Xiaomei Zhang, Hanyu Zheng, <strong>Xiangyu Zhu</strong>, Jinghuan Wei, Junhong Zou, Zhen Lei, Zhaoxiang Zhang<br/>
+      Xiaomei Zhang, Hanyu Zheng, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Jinghuan Wei, Junhong Zou, Zhen Lei, Zhaoxiang Zhang<br/>
       Machine Intelligence Research (<strong>MIR</strong>), 2026. <br/>
       [<a href="https://arxiv.org/abs/2507.18311">PDF</a>]
     </p>

@@ -103,7 +103,7 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Enhancing the Instruction-Following Ability of VisionLanguage Models via Image Redundancy Reduction,</strong><br/>
+      <strong>Enhancing the Instruction-Following Ability of Vision-Language Models via Image Redundancy Reduction,</strong><br/>
       Te Yang, Jian Jia, <strong>Xiangyu Zhu</strong>, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, Quan Chen and Zhen Lei<br/>
       Machine Intelligence Research (<strong>MIR</strong>) 2026. <br/>
       [<a href="">PDF</a>]

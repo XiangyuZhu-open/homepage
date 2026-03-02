@@ -35,13 +35,30 @@ ___
   <div class="column right">
     <p>
       <strong>ReGenHOI: Unifying Reconstruction and Generation for 3D Human–Object Interaction Understanding,</strong><br/>
-      Miao Xu, Xiangyu Zhu, Zidu Wang, Xusheng Liang, Bao Li, Jinlin Wu, Zelin Zang, Zhen Lei <br/>
+      Miao Xu, <strong>Xiangyu Zhu</strong>, Zidu Wang, Xusheng Liang, Bao Li, Jinlin Wu, Zelin Zang, Zhen Lei <br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2026. <br/>
       [<a href="">PDF</a>]
     </p>
   </div>
 </div>
 
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-cvpr-jiankuo.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction,</strong><br/>
+      Jiankuo Zhao, <strong>Xiangyu Zhu</strong>, Zidu Wang, Zhen Lei <br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2026. <br/>
+      [<a href="https://arxiv.org/abs/2511.19854">PDF</a>]
+    </p>
+  </div>
+</div>
 
 ___
 

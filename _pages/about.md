@@ -23,7 +23,8 @@ Chinese Bio
 
 News!
 ======
-* Feb. 2025: Five papers are accepted by CVPR
+* Feb. 2026: Five papers are accepted by CVPR
+* Feb. 2026: Two papers are accepted by Machine Intelligence Research (MIR)
 * Nov. 2025: Two papers are accepted by AAAI
 * Sep. 2025: One paper is accepted by NeurIPS
 * Apr. 2025: One paper is accpeted by MM (Oral)

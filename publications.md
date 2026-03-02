@@ -98,6 +98,40 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-mir-yangte.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Enhancing the Instruction-Following Ability of VisionLanguage Models via Image Redundancy Reduction,</strong><br/>
+      Te Yang, Jian Jia, <strong>Xiangyu Zhu</strong>, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, Quan Chen and Zhen Lei<br/>
+      Machine Intelligence Research (<strong>MIR</strong>) 2026. <br/>
+      [<a href="">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-mir-yangte.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Improving Large Vision-Language Models' Understanding for Field Data,</strong><br/>
+      Xiaomei Zhang, Hanyu Zheng, <strong>Xiangyu Zhu</strong>, Jinghuan Wei, Junhong Zou, Zhen Lei, Zhaoxiang Zhang<br/>
+      Machine Intelligence Research (<strong>MIR</strong>) 2026. <br/>
+      [<a href="https://arxiv.org/abs/2507.18311">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-aaai-zou.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -106,7 +140,7 @@ ___
       <strong>AdaField: Generalizable Surface Pressure Modeling with Physics-Informed Pre-training and Flow-Conditioned Adaptation,</strong><br/>
       Junhong Zou, Wei Qiu, Zhenxu Sun, Xiaomei Zhang, Zhaoxiang Zhang, <strong>Xiangyu Zhu (Corresponding Author)</strong><br/>
       The 40th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026. <br/>
-      [<a href="">PDF</a>]
+      [<a href="https://arxiv.org/abs/2601.07139">PDF</a>]
     </p>
   </div>
 </div>

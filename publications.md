@@ -86,7 +86,7 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing,</strong><br/>
+      <strong>DiffusionFF: A Diffusion-based Framework for Joint Face Forgery Detection and Fine-Grained Artifact Localization,</strong><br/>
       Siran Peng, Haoyuan Zhang, Li Gao, Tianshuo Zhang, <strong>Xiangyu Zhu</strong>, Bao Li, Weisong Zhao, Zhen Lei<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2026. <br/>
       [<a href="https://arxiv.org/abs/2508.01873">PDF</a>]

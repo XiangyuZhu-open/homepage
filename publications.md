@@ -17,7 +17,7 @@ ___
   <div class="column right">
     <p>
       <strong>PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation,</strong><br/>
-      Baiqin Wang, <strong>Xiangyu Zhu (Corresponding Author)</strong><br/>, Fan Shen, Hao Xu, Zhen Lei
+      Baiqin Wang, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Fan Shen, Hao Xu, Zhen Lei <br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2026. <br/>
       [<a href="https://arxiv.org/abs/2503.14295">PDF</a>]
     </p>

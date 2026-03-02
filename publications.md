@@ -64,6 +64,40 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-cvpr-haoyuan.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing,</strong><br/>
+      Haoyuan Zhang, Keyao Wang, Guosheng Zhang, Haixiao Yue, Zhiwen Tan, Siran Peng, Tianshuo Zhang, Xiao Tan, Kunbin Chen, Wei He, Jingdong Wang, Ajian Liu, <strong>Xiangyu Zhu</strong>, Zhen Lei<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2026. <br/>
+      [<a href="">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-cvpr-siran.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing,</strong><br/>
+      Siran Peng, Haoyuan Zhang, Li Gao, Tianshuo Zhang, <strong>Xiangyu Zhu</strong>, Bao Li, Weisong Zhao, Zhen Lei<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2026. <br/>
+      [<a href="https://arxiv.org/abs/2508.01873">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-aaai-zou.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>

@@ -25,6 +25,22 @@ ___
 </div>
 
 
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-cvpr-xumiao.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>ReGenHOI: Unifying Reconstruction and Generation for 3D Human–Object Interaction Understanding,</strong><br/>
+      Miao Xu, Xiangyu Zhu, Zidu Wang, Xusheng Liang, Bao Li, Jinlin Wu, Zelin Zang, Zhen Lei <br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2026. <br/>
+      [<a href="">PDF</a>]
+    </p>
+  </div>
+</div>
 
 
 ___

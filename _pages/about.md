@@ -10,14 +10,14 @@ redirect_from:
 
 Short Bio
 ======
-I am a Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D Face Reconstruction**, **Face Recognition**, and **Digital Human**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 100 papers with total citation in Google Scholar being over 11000. I am an IEEE senior member and serve as the Associate Editor of IEEE Transactions on Information Forensics & Security (T-IFS) and Pattern Recognition (PR), Program Chair of IJCB 2025, and Area Chair for IJCB and ACM MM. My github projects on face analysis and 3D reconstruction have gained over 8000 stars.
+I am a Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **Face Biometrics**, **Spatial Intelligence**, and **AI4Science(Fluid)**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 100 papers with total citation in Google Scholar being over 11000. I am an IEEE senior member and serve as the Associate Editor of IEEE Transactions on Information Forensics & Security (T-IFS) and Pattern Recognition (PR), Program Chair of IJCB 2025, and Area Chair for IJCB and ACM MM. My github projects on face analysis and 3D reconstruction have gained over 8000 stars.
 
 <br>
 
 
 Chinese Bio
 ======
-中国科学院自动化研究所项目研究员、博士生导师，从事生物特征识别、数字人、AI4Science（空气动力学）研究与应用。入选国家级青年人才计划，国际模式识别协会（IAPR）生物特征识别青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名）。共发表论文100余篇，发表文章的Google Scholar总引用次数为11000余次，入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人）。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利16项。任生物特征识别国际期刊IEEE Transactions on Information Forensics & Security (T-IFS, CCF:A) 、模式识别国际知名期刊Pattern Recognition (PR, CCF:B) Associate Editor， 国际生物特征识别大会 IJCB 2025 Program Chair, 中国人工智能学会模式识别专委会副秘书长，中国图象图形学学会青托俱乐部副主席。获中国图象图形学学会自然科学二等奖（第一完成人），中国电子学会科技进步二等奖。提出的人脸三维建模方法在国际上产生了较广泛的影响力，相关成果被PyTorch官方Twitter报道，开源代码在Github上收获8000余星。主持中科院先导A专项课题，国自然重大培育、面上项目，华为、腾讯、阿里、商汤等企业委托项目。
+中国科学院自动化研究所项目研究员、博士生导师，从事生物特征识别、三维重建、空间智能、AI4Science（流体力学）研究与应用。入选国家级青年人才计划，国际模式识别协会（IAPR）生物特征识别青年学者奖（YBIA）获得者（两年一次，每次从全球范围内评选40岁以下学者一名）。共发表论文100余篇，发表文章的Google Scholar总引用次数为11000余次，入选IEEE Senior Member，百度学术全球华人AI青年学者榜单（全球25人）。获得三次国际竞赛冠军以及四项最佳论文及提名奖。授权国家发明专利16项。任生物特征识别国际期刊IEEE Transactions on Information Forensics & Security (T-IFS, CCF:A) 、模式识别国际知名期刊Pattern Recognition (PR, CCF:B) Associate Editor， 国际生物特征识别大会 IJCB 2025 Program Chair, 中国人工智能学会模式识别专委会副秘书长，中国图象图形学学会青托俱乐部副主席。获中国图象图形学学会自然科学二等奖（第一完成人），中国电子学会科技进步二等奖。提出的人脸三维建模方法在国际上产生了较广泛的影响力，相关成果被PyTorch官方Twitter报道，开源代码在Github上收获8000余星。主持中科院先导A专项课题，国自然重大培育、面上项目，华为、腾讯、阿里、商汤等企业委托项目。
 
 <br>
 

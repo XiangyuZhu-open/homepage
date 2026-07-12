@@ -23,6 +23,9 @@ Chinese Bio
 
 News!
 ======
+* Jul. 2026: Two papers are accepted by MM
+* Jul. 2026: One paper is accepted by TIFS
+* Jun. 2026: One paper is accepted by ECCV
 * Feb. 2026: Five papers are accepted by CVPR
 * Feb. 2026: Two papers are accepted by Machine Intelligence Research (MIR)
 * Nov. 2025: Two papers are accepted by AAAI

@@ -85,6 +85,94 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-eccv-baiqin.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Towards Flexible, Natural, Efficient Interaction for Conversational Talking Face Generation,</strong><br/>
+      Baiqin Wang, Sen Chen, Jiankuo Zhao, Xiangyu Liu, Zhen Lei, and <strong>Xiangyu Zhu (Corresponding Author)</strong> <br/>
+      In European Conference on Computer Vision (<strong>ECCV</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/abs/2606.31088">PDF</a>][<a href="">WeChat</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-tifs-haoyuan.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>CPG-PAD: Concept-Informed Prompts Guided Presentation Attack Detection,</strong><br/>
+      Haoyuan Zhang, <strong>Xiangyu Zhu</strong>, Li Gao, Ajian Liu, Siran Peng, Zhen Lei <br/>
+      IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/abs/2607.01303">PDF</a>][<a href="">WeChat</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-aaai-zou.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>AdaField: Generalizable Surface Pressure Modeling with Physics-Informed Pre-training and Flow-Conditioned Adaptation,</strong><br/>
+      Junhong Zou, Wei Qiu, Zhenxu Sun, Xiaomei Zhang, Zhaoxiang Zhang, <strong>Xiangyu Zhu (Corresponding Author)</strong><br/>
+      The 40th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026. <br/>
+      [<a href="https://arxiv.org/abs/2601.07139">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-nips-zhang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>DevFD: Developmental Face Forgery Detection by Learning Shared and Orthogonal LoRA Subspaces,</strong><br/>
+      Tianshuo Zhang, Li Gao, Siran Peng, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Zhen Lei<br/>
+      Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025. <br/>
+      [<a href="https://arxiv.org/pdf/2509.19230">PDF</a>][<a href="https://mp.weixin.qq.com/s/Afw1W7AE4BVpFaoZh-kFHg">WeChat</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-pof-zou.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Joint optimization of sensor placement and sparse pressure field reconstruction with a two-stage framework for limited data,</strong><br/>
+      Junhong Zou, Wei Qiu, Zhenxu Sun, Xiaomei Zhang, Zhaoxiang Zhang, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Zhen Lei<br/>
+      Physics of Fluids(<strong>PoF</strong>), 2025.<br/>
+      [<a href="https://pubs.aip.org/aip/pof/article-abstract/37/7/075231/3356385/Joint-optimization-of-sensor-placement-and-sparse?redirectedFrom=fulltext">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-ijcai-zou.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -151,23 +239,6 @@ ___
   </div>
 </div>
 
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tbiom-zhu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Tingting Liao, Xiaomei Zhang, Jiangjing Lyu, Zhiwen Chen, Yunfeng Wang, Kan Guo, Qiong Cao, Stan Z. Li, Zhen Lei<br/>
-      IEEE Transactions on Biometrics, Behavior, and Identity Science (<strong>TBIOM</strong>), 2023.<br/>
-      [<a href="https://arxiv.org/abs/2204.11184">PDF</a>][<a href="https://github.com/TingtingLiao/MVPHuman">Github</a>]
-    </p>
-  </div>
-</div>
 
 ___
 
@@ -187,24 +258,6 @@ ___
   </div>
 </div>
 
-
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-cvpr-yu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network,</strong><br/>
-      Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zidu Wang, Zhaoxiang Zhang, Zhen Lei<br/>
-     IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2022.<br/>
-      [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
-    </p>
-  </div>
-</div>
 
 ___
 

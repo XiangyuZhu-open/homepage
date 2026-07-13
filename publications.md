@@ -7,6 +7,25 @@ author_profile: true
 
 2026
 =====
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-cvpr-baiqin.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Towards Flexible, Natural, Efficient Interaction for Conversational Talking Face Generation,</strong><br/>
+      Baiqin Wang, Sen Chen, Jiankuo Zhao, Xiangyu Liu,Zhen Lei, and <strong>Xiangyu Zhu (Corresponding Author)</strong> <br/>
+      In European Conference on Computer Vision (<strong>ECCV</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/abs/2606.31088">PDF</a>][<a href="">WeChat</a>]
+    </p>
+  </div>
+</div>
+
 ___
 
 <div class="row">

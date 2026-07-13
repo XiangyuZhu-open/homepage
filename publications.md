@@ -36,7 +36,7 @@ ___
   <div class="column right">
     <p>
       <strong>Direct Discrepancy Replay: Distribution-Discrepancy Condensation and Manifold-Consistent Replay for Continual Face Forgery Detection,</strong><br/>
-      Tianshuo Zhang, Haoyuan Zhang, Siran Peng, Weisong Zhao, Xiangyu Zhu, Zhen Lei <br/>
+      Tianshuo Zhang, Haoyuan Zhang, Siran Peng, Weisong Zhao, <strong>Xiangyu Zhu</strong>, Zhen Lei <br/>
       ACM Multimedia (<strong>ACM MM</strong>), 2026. <br/>
       [<a href="">PDF</a>][<a href="">WeChat</a>]
     </p>
@@ -55,7 +55,7 @@ ___
   <div class="column right">
     <p>
       <strong>CPG-PAD: Concept-Informed Prompts Guided Presentation Attack Detection,</strong><br/>
-      Haoyuan Zhang, Xiangyu Zhu, Li Gao, Ajian Liu, Siran Peng, Zhen Lei <br/>
+      Haoyuan Zhang, <strong>Xiangyu Zhu</strong>, Li Gao, Ajian Liu, Siran Peng, Zhen Lei <br/>
       IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2026.<br/>
       [<a href="https://arxiv.org/abs/2607.01303">PDF</a>][<a href="">WeChat</a>]
     </p>

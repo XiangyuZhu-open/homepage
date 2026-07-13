@@ -72,7 +72,7 @@ ___
       <strong>From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing,</strong><br/>
       Haoyuan Zhang, Keyao Wang, Guosheng Zhang, Haixiao Yue, Zhiwen Tan, Siran Peng, Tianshuo Zhang, Xiao Tan, Kunbin Chen, Wei He, Jingdong Wang, Ajian Liu, <strong>Xiangyu Zhu</strong>, Zhen Lei<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2026. <br/>
-      [<a href="">PDF</a>]
+      [<a href="">PDF</a>][<a href="https://mp.weixin.qq.com/s/Xx641-UmzFJY4bC-0tnB3Q">WeChat</a>]
     </p>
   </div>
 </div>
@@ -180,7 +180,7 @@ ___
       <strong>DevFD: Developmental Face Forgery Detection by Learning Shared and Orthogonal LoRA Subspaces,</strong><br/>
       Tianshuo Zhang, Li Gao, Siran Peng, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Zhen Lei<br/>
       Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025. <br/>
-      [<a href="https://arxiv.org/pdf/2509.19230">PDF</a>][<a href="https://mp.weixin.qq.com/s/Afw1W7AE4BVpFaoZh-kFHg">Weixin</a>]
+      [<a href="https://arxiv.org/pdf/2509.19230">PDF</a>][<a href="https://mp.weixin.qq.com/s/Afw1W7AE4BVpFaoZh-kFHg">WeChat</a>]
     </p>
   </div>
 </div>
@@ -304,7 +304,7 @@ ___
       <strong>Reconstructing 3D Hand-Instrument Interaction from a Single 2D Image in Medical Scenes,</strong><br/>
       Miao Xu, <strong>Xiangyu Zhu</strong>, Jinlin Wu, Ming Feng, Zelin Zang, Hongbin Liu, and Zhen Lei<br/>
      International Conference on Medical Image Computing and Computer-Assisted Intervention (<strong>MICCAI</strong>), 2025.<br/>
-      [<a href="https://papers.miccai.org/miccai-2025/paper/2293_paper.pdf">PDF</a>][<a href="https://mp.weixin.qq.com/s/4Rk4uEDBSHIyX-P9nnyZuQ">Weixin</a>]
+      [<a href="https://papers.miccai.org/miccai-2025/paper/2293_paper.pdf">PDF</a>][<a href="https://mp.weixin.qq.com/s/4Rk4uEDBSHIyX-P9nnyZuQ">WeChat</a>]
     </p>
   </div>
 </div>

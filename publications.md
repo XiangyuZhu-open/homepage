@@ -12,6 +12,43 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-mm-jijie.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer,</strong><br/>
+      Jijie Li, Jiankuo Zhao, <strong>Xiangyu Zhu (Corresponding Author)</strong>, Zhen Lei <br/>
+      ACM Multimedia (<strong>ACM MM</strong>), 2026. <br/>
+      [<a href="https://arxiv.org/abs/2604.12941">PDF</a>][<a href="">WeChat</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-mm-tianshuo.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Direct Discrepancy Replay: Distribution-Discrepancy Condensation and Manifold-Consistent Replay for Continual Face Forgery Detection,</strong><br/>
+      Tianshuo Zhang, Haoyuan Zhang, Siran Peng, Weisong Zhao, Xiangyu Zhu, Zhen Lei <br/>
+      ACM Multimedia (<strong>ACM MM</strong>), 2026. <br/>
+      [<a href="">PDF</a>][<a href="">WeChat</a>]
+    </p>
+  </div>
+</div>
+
+
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-tifs-haoyuan.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -19,7 +56,7 @@ ___
     <p>
       <strong>CPG-PAD: Concept-Informed Prompts Guided Presentation Attack Detection,</strong><br/>
       Haoyuan Zhang, Xiangyu Zhu, Li Gao, Ajian Liu, Siran Peng, Zhen Lei <br/>
-      IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2023.<br/>
+      IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2026.<br/>
       [<a href="https://arxiv.org/abs/2607.01303">PDF</a>][<a href="">WeChat</a>]
     </p>
   </div>

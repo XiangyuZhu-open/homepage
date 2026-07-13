@@ -29,7 +29,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-cvpr-baiqin.png?raw=true">  
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-eccv-baiqin.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">

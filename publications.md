@@ -19,7 +19,7 @@ ___
     <p>
       <strong>Tele-Cranio: a CT-free AI solution for remote diagnosis and planning of craniomaxillofacial deformities,</strong><br/>
       Meng Xu, Zidu Wang, Lei Zhang, Chuanqi Qin, Xiaole Wang, Jiayu Zhou, Zhen Lei, Hengyuan Ma, Tao Song, <strong>Xiangyu Zhu (Corresponding Author)</strong> <br/>
-      Nature Portfolio Journal (npj) Digital Medicine, 2026.<br/>
+      Nature Portfolio Journal (<strong>npj</strong>) Digital Medicine, 2026.<br/>
       [<a href="https://www.nature.com/articles/s41746-026-03454-z">Paper</a>]
     </p>
   </div>
@@ -37,7 +37,7 @@ ___
     <p>
       <strong>Object-Centric Conditioning for Visuomotor Flow Matching,</strong><br/>
       Jijie Li, Xu Yang, Junhong Zou, Chunhai Zhao, Chaoyang Zhao, Zhen Lei, <strong>Xiangyu Zhu (Corresponding Author)</strong> <br/>
-      10th Conference on Robot Learning (CoRL), 2026.<br/>
+      10th Conference on Robot Learning (<strong>CoRL</strong>), 2026.<br/>
       [<a href="https://arxiv.org/abs/2609.24155">Paper</a>]
     </p>
   </div>

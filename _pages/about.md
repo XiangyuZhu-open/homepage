@@ -23,6 +23,7 @@ Chinese Bio
 
 News!
 ======
+* Nov. 2026: One paper is accepted by Knowledge-Based Systems
 * Nov. 2026: One paper is accepted by Nature Portfolio Journal (npj) Digital Medicine
 * Sep. 2026: One paper is accepted by CoRL
 * Jul. 2026: Two papers are accepted by MM

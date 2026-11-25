@@ -25,6 +25,23 @@ ___
   </div>
 </div>
 
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2026-ks-zhenhua.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>GeoSerial: Tokenized Geometry Conditioning and Spatial Point Serialization for Vehicle Aerodynamic Field PredictionKnowledge-Based Systems,</strong><br/>
+      Zhenhua Zheng, Lu Zhang, Junhong Zou, Wei Qiu, Zhenxu Sun, Xiangyu Zhu, Zhiyong Liu <br/>
+      Knowledge-Based Systems, 2026.<br/>
+      [<a href="">Paper</a>]
+    </p>
+  </div>
+</div>
+
 
 ___
 
